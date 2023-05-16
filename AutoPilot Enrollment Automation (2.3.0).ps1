@@ -14,8 +14,8 @@
 param
 (
     [System.String]$Key,
-    [System.String]$groupTag
-    [System.string]$clientid
+    [System.String]$groupTag,
+    [System.string]$clientid,
     [System.string]$TenantName
 )
 
